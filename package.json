@@ -1,5 +1,5 @@
 {
-  "name": "@welldone-software/why-did-you-render",
+  "name": "@markovicivan/wdyr",
   "version": "7.0.1",
   "description": "Monkey patches React to notify you about avoidable re-renders.",
   "types": "types.d.ts",
