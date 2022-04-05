@@ -127,6 +127,7 @@ function getIsSupportedComponentType(Comp) {
 export const hooksConfig = {
   useState: { path: '0' },
   useReducer: { path: '0' },
+  useEffect: { path: '0' },
   useContext: undefined,
   useMemo: { dependenciesPath: '1', dontReport: true },
   useCallback: { dependenciesPath: '1', dontReport: true },
